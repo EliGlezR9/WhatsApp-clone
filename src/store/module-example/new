@@ -1,0 +1,40 @@
+{
+"chats": {
+        "bLiLyEtP0TSLjyQdfMJrHmHGS582'': {
+            "ID1" : {
+                "contactName" : "Ruben Gonzalez",
+                "lastMessage" : "Hello world",
+                "messageSent" : true,
+                "messageReceived" : true,
+                "messageSeen" : false,
+                "lastConnection" : Date,
+
+            },
+            "ID2" : {
+                "contactName" : "Juan perez",
+                "lastMessage" : "Good morning",
+                "messageSent" : true,
+                "messageReceived" : true,
+                "messageSeen" : false,
+                "lastConnection" : Date,
+
+            },
+            "ID3" : {
+                contactName" : "Chuy mecanico",
+                "lastMessage" : "Good morning",
+                "messageSent" : true,
+                "messageReceived" : true,
+                "messageSeen" : false,
+                "lastConnection" : Date,
+            },
+            "ID4" : {
+                "contactName" : "Gerente",
+                "lastMessage" : "Good morning",
+                "messageSent" : true,
+                "messageReceived" : true,
+                "messageSeen" : false,
+                "lastConnection" : Date,
+            }
+        }
+    }
+}
